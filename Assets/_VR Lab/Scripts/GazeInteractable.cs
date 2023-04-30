@@ -9,7 +9,7 @@ public class GazeInteractable : MonoBehaviour
 	[SerializeField] private float resumeDelay;
 
 	[Header("Lazy Follow Settings", order = 2)]
-	public bool lazyFollowSelected = false;
+	public bool lazyFollowSelected = true;
 	[Tooltip("The distance to where the object finally stays : the distance to the object's original position")]
 	public float lazyFollowDistanceRatio = 1.0f;
 
