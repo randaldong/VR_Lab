@@ -1075,6 +1075,7 @@ MonoBehaviour:
   uiElementsToApply:
   - {fileID: 1322995098}
   - {fileID: 1655321675}
+  - {fileID: 2004084429}
 --- !u!1 &824768647
 GameObject:
   m_ObjectHideFlags: 0
