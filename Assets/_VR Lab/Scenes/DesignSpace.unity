@@ -4278,7 +4278,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1657481669}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c3d0ccb2e88a5c246ba0d7da6192c5e0, type: 3}
   m_Name: 
@@ -5110,7 +5110,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2004084425}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2821ca1186b520f4196307f243df8797, type: 3}
   m_Name: 
@@ -5160,19 +5160,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2004084429}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1203696463}
-        m_TargetAssemblyTypeName: Reactions, Assembly-CSharp
-        m_MethodName: InventoryButtonReaction
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &2004084429
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5355,7 +5343,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2975320347602366556, guid: 2e29a7886fd20a74f9bdfe9212b69fc4, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2975320347602366559, guid: 2e29a7886fd20a74f9bdfe9212b69fc4, type: 3}
       propertyPath: m_Pivot.x
